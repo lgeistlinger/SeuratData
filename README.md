@@ -7,7 +7,7 @@ SeuratData is a mechanism for distributing datasets in the form of [Seurat](http
 Installation of SeuratData can be accomplished through [devtools](https://cran.r-project.org/package=devtools)
 
 ```R
-devtools::install_github('satijalab/seurat-data')
+devtools::install_github('lgeistlinger/SeuratData')
 ```
 
 ### Getting Started
